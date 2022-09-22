@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactTask/static/css/main.abd64e84.css",
+    "main.js": "/reactTask/static/js/main.33009b3f.js",
+    "static/media/user.png": "/reactTask/static/media/user.a6143582309785dca610.png",
+    "index.html": "/reactTask/index.html",
+    "main.abd64e84.css.map": "/reactTask/static/css/main.abd64e84.css.map",
+    "main.33009b3f.js.map": "/reactTask/static/js/main.33009b3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.33009b3f.js"
+  ]
+}
